@@ -1,0 +1,8 @@
+n1=int(input("enter the age:"))
+n2=input("enter the flimindus:")
+n3=input("delicious:")
+n4=input("wired:")
+print(f"i'm dharshhh! from erode and {n1} offcourse i will enjoy my tenage")
+print(f"i recently like to watch {n2} movies ")
+print(f"annnddd i like to eat {n3} but that's cap:(")
+print(f"<3 sometimes i havebeen {n4}")  
